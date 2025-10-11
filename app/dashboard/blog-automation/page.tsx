@@ -176,8 +176,3 @@ lg:grid-cols-3"
     </Card>
   );
 }
-
-// // editor height css 
-// .w-md-editor { 
-// height: 320px !important; 
-// }
