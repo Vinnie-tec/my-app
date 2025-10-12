@@ -169,7 +169,7 @@ lg:grid-cols-3"
               src={image}
               alt="Featured"
               className="mt-2 max-w-full h-auto rounded-lg"
-            />
+            />    jvv
           )}
         </div>
       </CardContent>
